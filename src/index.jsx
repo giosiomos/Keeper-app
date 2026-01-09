@@ -8,7 +8,6 @@ ReactDOM.createRoot(document.getElementById("root")).render(
   </React.StrictMode>
 );
 
-// ReactDOM.render(<App />, document.getElementById("root"));
 
 //CHALLENGE:
 //1. Implement the add note functionality.
